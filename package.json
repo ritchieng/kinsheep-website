@@ -1,0 +1,6 @@
+{
+  "name": "landing",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
